@@ -1,7 +1,7 @@
 # Predicting Google Play Store App Ratings
 
 ## Project Overview
-- This project uses Jupyter Notebook to build a predictive model to estimate app ratings based on various attributes from the Google Play Store dataset. 
+- This project utilizes Jupyter Notebook to develop a predictive model for estimating app ratings based on various attributes from the Google Play Store dataset.
 - It involves data preprocessing, exploratory data analysis, outlier detection, feature engineering, and training a linear regression model. 
 - The goal is to help Google identify promising apps for increased visibility in recommendations and search results.
 
